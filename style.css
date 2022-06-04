@@ -7,7 +7,7 @@
 
 body{
     background-color: hsl(217, 54%, 11%);
-    height: 100vh;
+    height: 700px;
 }
 a{
     color: hsl(0, 0%, 100%);
@@ -22,9 +22,11 @@ main{
 }
 main section{
     width: 375px;
+    height: 600px;
     background-color: hsl(216, 50%, 16%);
     padding: 25px;
     border-radius: 20px;
+
 }
 main section img{
     width: 100%;
